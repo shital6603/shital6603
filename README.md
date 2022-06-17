@@ -1,7 +1,6 @@
 - 👋 Hello there, I’m Shital Khairnar
-- 👀 I’m interested in
 - 🌱 I’m currently studying for diploma in computer engineering.
-- 💞️ I’m looking 
+- I have learnt c,c++,java,python,javascript,php.
 - 📫 You can contact me using my email: shital6603@gmail.com 
 
 <!---
